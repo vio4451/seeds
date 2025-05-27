@@ -1,2 +1,5 @@
 # seeds
-torchscript web
+flask
+torch
+torchvision
+numpy
